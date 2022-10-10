@@ -5,11 +5,6 @@
 The instructions below have been prepared for macOS. 
 If you are using a different system, please note that the commands in the terminal may be different.
 
-## Install Oh My Zsh
-
-Open the terminal and paste the following command:
-`$ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
-
 ## Install Homebrew
 
 Run the following command in the terminal:
