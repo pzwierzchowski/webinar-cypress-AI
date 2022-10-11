@@ -23,15 +23,15 @@ class NewsletterPage {
     }
 
     fillSecondNameField(){
-        cy.get(nameField).eq(0).type('Pawel');
+        cy.get(nameField).eq(1).type('Pawel');
     }
 
     fillSecondEmailField(){
-        cy.get(emailField).eq(0).type('pawel@fabrykatestow.pl');
+        cy.get(emailField).eq(1).type('pawel@fabrykatestow.pl');
     }
 
     clickSecondSubmitButton(){
-        cy.get(submitButton).eq(0).click();
+        cy.get(submitButton).eq(1).click();
     }
 }
 
