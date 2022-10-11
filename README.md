@@ -5,6 +5,9 @@
 
 Follow up to webinar this project is the entry point how to start creating automated tests in Cypress and JS. 
 During that you can find here how to prepare a project architecture and create some tests. Also you will find here basic usage of REST API tests in Cypress.
+
+Important: Treat this project as a boilerplate for your future projects! You can use this, modify and do best E2E tests with Cypress.
+
 Enjoy!
 
 ## Install Instructions:
