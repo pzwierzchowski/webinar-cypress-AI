@@ -1,9 +1,13 @@
 # webinar-cypress
 
+
 ## Introduction
 
-The instructions below have been prepared for macOS. 
-If you are using a different system, please note that the commands in the terminal may be different.
+Follow up to webinar this project is the entry point how to start creating automated tests in Cypress and JS. 
+During that you can find here how to prepare a project architecture and create some tests. Also you will find here basic usage of REST API tests in Cypress.
+Enjoy!
+
+## Install Instructions:
 
 ## Install Homebrew
 
